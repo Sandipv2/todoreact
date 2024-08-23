@@ -1,0 +1,41 @@
+@import url('https://fonts.cdnfonts.com/css/helvetica-neue-55');
+
+/*
+    -: RESET :- 
+*/
+body {
+    background-color: #232323;
+    color: white;
+    font-family: 'Helvetica Neue', sans-serif;                               
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    color: inherit;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #e3e3e3;
+    border-radius: 0.5rem;
+}
+
+
+/*********************************************************************/
+
+.custom-line-through {
+    text-decoration-color: red;
+    text-decoration-thickness: 4px;
+}
