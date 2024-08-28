@@ -1,4 +1,4 @@
-# [React Todo App](https://mytodoreactapp.vercel.app/)
+# React Todo App
 
 Build with React + Vite
 
